@@ -1,4 +1,6 @@
 # tf-faster-rcnn
+基于TensorFlow完成的Faster R-CNN项目，将其进行改进应用到钢轨伤损检测上。
+
 Tensorflow Faster R-CNN for Windows and Linux by using Python 3
 
 This is the branch to compile Faster R-CNN on Windows and Linux. It is heavily inspired by the great work done [here](https://github.com/smallcorgi/Faster-RCNN_TF) and [here](https://github.com/rbgirshick/py-faster-rcnn). I have not implemented anything new but I fixed the implementations for Windows, Linux and Python 3.
